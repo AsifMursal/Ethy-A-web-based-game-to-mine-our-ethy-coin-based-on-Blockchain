@@ -1,3 +1,8 @@
+## Ethy- Web based game to mine our ethy coin and buy NFTS as you grow
+
+
+
+
 ## Getting Started
 
 Create a project using this example:
